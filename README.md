@@ -4,7 +4,7 @@ HDevDown is a .txt parser currently in beta made in Python to run through the te
 
 ### Headers
 
-To add header tags add the hash symbol followed by the number you want for the header. For example: #1 is equal to a <h1> tag and #2 is equal to a <h2> tag.
+To add header tags add the hash symbol followed by the number you want for the header. For example: #1 is equal to a h1 tag and #2 is equal to a h2 tag.
 
 ### Other HTML Elements
 
